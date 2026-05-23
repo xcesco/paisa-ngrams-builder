@@ -1,0 +1,24 @@
+##
+# Commento da ignorare
+# Questo è il corpus PAISÀ di test
+##
+<text id="1" url="http://example.com">
+Il gatto nero. Dorme sul divano.
+</text>
+<text id="2" url="http://example.com/2">
+Perché la città è più bella?
+quest'inspiegabile cosa
+</text>
+<text id="3" url="http://example.com/3">
+larghezza 1/8": quella da corsa
+</text>
+<text id="4" url="http://example.com/4">
+<b>Roma</b> è la capitale d'Italia.
+università e così via
+</text>
+Testo fuori dai tag text da ignorare
+<text id="5" url="http://example.com/5">
+può essere difficile
+E' fondamentale studiare
+</text>
+
