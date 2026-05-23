@@ -406,7 +406,7 @@ uv run build_paisa_ngrams.py \
   --verbose
 ```
 
-Il risultato di questa esecuzione è disponibile a questo indirizzo https://github.com/xcesco/paisa-ngrams-builder/releases/download/assets/ngrams_paisa_alphabet26.zip.
+Il risultato di questa esecuzione è disponibile all'indirizzo https://github.com/xcesco/paisa-ngrams-builder/releases/download/assets/ngrams_paisa_alphabet26.zip.
 
 ### Esempio con alfabeto a 25 caratteri (senza J):
 Questo esempio è molto utile per fare crittoanalisi su crittogrammi sospetti Playfair:
@@ -424,7 +424,7 @@ uv run build_paisa_ngrams.py \
   --save-npy \
   --verbose
 ```
-Il risultato di questa esecuzione è disponibile a questo indirizzo https://github.com/xcesco/paisa-ngrams-builder/releases/download/assets/ngrams_paisa_alphabet25.zip.
+Il risultato di questa esecuzione è disponibile all'indirizzo https://github.com/xcesco/paisa-ngrams-builder/releases/download/assets/ngrams_paisa_alphabet25.zip.
 
 **Nota**: Con alfabeto a 25 caratteri, tutte le parole contenenti J (come "jazz", "jeans", "jolly") verranno scartate dal modello.
 
